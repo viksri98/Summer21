@@ -12,3 +12,7 @@ a = 0
 # You can also use the type() function to determine the type
 
 print(type(a))
+
+# Notice that this prints out <class 'int'>. That is because python is an object
+# oriented language, so all data types are defined in classes. We will look more
+# at objects later.
