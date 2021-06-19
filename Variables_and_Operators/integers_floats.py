@@ -35,3 +35,6 @@ int("1") # Turns any type into its equivalent integer value
 float("1") # Turns any type into its equivalent float value
 str(1) # Turns any type into its equivalent string value
 # %%
+# now lets try getting an int input again
+# YOUR CODE BELOW
+
