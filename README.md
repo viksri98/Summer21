@@ -2,4 +2,8 @@
 Day 1:
 1. hello_world.ipynb -> Be quick, the file is more throrough than necessary
 2. input.ipynb -> Maybe do mad libs??
-3. integers_floats.ipynb -> probably last part of the day
+3. integers_floats.ipynb
+4. math.ipynb -> possibly switch order with strings_lists
+5. strings_lists.ipynb
+Day 2:
+1. Logical_statements.ipynb
