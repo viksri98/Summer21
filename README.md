@@ -7,6 +7,6 @@ Day 1:
 4. Lesson 5: math.ipynb -> possibly switch order with strings_lists
 5. Lesson 6: strings_lists.ipynb
 Day 2:
-1. numpy_creation.ipynb
-2. numpy_manipulation.ipynb
+1. Lesson 7: numpy_creation.ipynb
+2. Lesson 8: numpy_manipulation.ipynb
 3. logical_statements.ipynb
