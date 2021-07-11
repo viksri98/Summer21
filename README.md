@@ -13,8 +13,19 @@ Lesson 7: numpy_creation.ipynb
 Day4:
 Review_Lessons1_7.ipynb
 Lesson 8: numpy_manipulation.ipynb  
-Lesson 9: matplotlib
+Lesson 9: matplotlib.ipynb -> Introduction of Function Family
 Lesson 10: logical_statements.ipynb  
 Lesson 11: Execution_Control.ipynb
 Review_Lessons8_11.ipynb
+
+In the works:
+Lesson 12: Loops.ipynb
+
+Switch to Notebook + Spyder
+Lesson 13: Functions.ipynb
+Review_Lessons8_13.ipynb --> Function family parameters a, h, k and their effect on a function
+Lesson 14: Draw a shape using Turtle
+Lesson 15: Transformations --> Rotation, Translation, Dilation, Reflection
+Review_Lesson_Image Processing --> image processing project
+Review_Lesson_Sound Processing --> project
 
