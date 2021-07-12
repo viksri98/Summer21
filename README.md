@@ -10,20 +10,22 @@ Lesson 6: strings_lists.ipynb
 Day 3:  
 Lesson 7: numpy_creation.ipynb  
 
-Day 4:  
+Week 2:  
 Review_Lessons1_7.ipynb  
 Lesson 8: numpy_manipulation.ipynb     
 Lesson 9: matplotlib.ipynb -> Introduction of Function Family   
 Project1: Pandas_Candy_Data_1.py   
-
 Lesson 10: logical_statements.ipynb    
-Lesson 11: Execution_Control.ipynb  
+Lesson 11: Execution_Control.ipynb
+Project2: Pandas_Candy_Data_2.py  
+
+Week 3:   
 Review_Lessons8_11.ipynb  
 Lesson 12: Loops.ipynb  
 Review_Lesson12_Functions -> Quadratic, Cubic, Absolute, Exponential movement with a,h,k  
 Lesson 13: Functions.ipynb  
 
-In the works:  
+In the works: Week 4:    
 Lesson 14: Draw a shape using Turtle  
 Lesson 15: Transformations --> Rotation, Translation, Dilation, Reflection  
 Project: Image Processing --> image processing project  
