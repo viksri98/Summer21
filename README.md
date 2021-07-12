@@ -11,8 +11,11 @@ Day 3:
 Lesson 7: numpy_creation.ipynb  
 
 Day4:
+
 Review_Lessons1_7.ipynb
+
 Lesson 8: numpy_manipulation.ipynb  
+
 Lesson 9: matplotlib.ipynb -> Introduction of Function Family
 
 Lesson 10: logical_statements.ipynb  
