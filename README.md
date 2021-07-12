@@ -20,10 +20,10 @@ Review_Lessons8_11.ipynb
 
 In the works:
 Lesson 12: Loops.ipynb
+Review_Lesson12_Functions -> Quadratic, Cubic, Absolute, Exponential movement with a,h,k
 
 Switch to Notebook + Spyder
 Lesson 13: Functions.ipynb
-Review_Lessons8_13.ipynb --> Function family parameters a, h, k and their effect on a function
 Lesson 14: Draw a shape using Turtle
 Lesson 15: Transformations --> Rotation, Translation, Dilation, Reflection
 Review_Lesson_Image Processing --> image processing project
