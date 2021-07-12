@@ -14,18 +14,28 @@ Day4:
 Review_Lessons1_7.ipynb
 Lesson 8: numpy_manipulation.ipynb  
 Lesson 9: matplotlib.ipynb -> Introduction of Function Family
+
 Lesson 10: logical_statements.ipynb  
+
 Lesson 11: Execution_Control.ipynb
+
 Review_Lessons8_11.ipynb
 
 In the works:
+
 Lesson 12: Loops.ipynb
+
 Review_Lesson12_Functions -> Quadratic, Cubic, Absolute, Exponential movement with a,h,k
 
 Switch to Notebook + Spyder
+
 Lesson 13: Functions.ipynb
+
 Lesson 14: Draw a shape using Turtle
+
 Lesson 15: Transformations --> Rotation, Translation, Dilation, Reflection
+
 Review_Lesson_Image Processing --> image processing project
+
 Review_Lesson_Sound Processing --> project
 
