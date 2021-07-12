@@ -16,7 +16,7 @@ Lesson 8: numpy_manipulation.ipynb
 Lesson 9: matplotlib.ipynb -> Introduction of Function Family   
 Project1: Pandas_Candy_Data_1.py   
 Lesson 10: logical_statements.ipynb    
-Lesson 11: Execution_Control.ipynb
+Lesson 11: Execution_Control.ipynb  
 Project2: Pandas_Candy_Data_2.py  
 
 Week 3:   
