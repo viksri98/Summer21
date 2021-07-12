@@ -1,11 +1,11 @@
 City,Latitude,Number of Daylight Hours
-"Portland, OR",45N,7
-"San Francisco, CA",37N,8
-"Anchorage, AK",61N,0
-"Jacksonville, FL",30N,9
-"Santo Domingo, Dominican Rep.",18N,11
-"Charlotte, NC",35N,10
-"Sioux Falls, SD",43N,9
-"Calgary, Alberta, Canada",51N,8
-"Mexico City, Mexico",19N,11
+"Portland, OR",45,7
+"San Francisco, CA",37,8
+"Anchorage, AK",61,0
+"Jacksonville, FL",30,9
+"Santo Domingo, Dominican Rep.",18,11
+"Charlotte, NC",35,10
+"Sioux Falls, SD",43,9
+"Calgary, Alberta, Canada",51,8
+"Mexico City, Mexico",19,11
 "Quito, Ecuador",0,12
