@@ -24,6 +24,7 @@ Review_Lessons8_11.ipynb
 Lesson 12: Loops.ipynb  
 Review_Lesson12_Functions -> Quadratic, Cubic, Absolute, Exponential movement with a,h,k  
 Lesson 13: Functions.ipynb  
+Project3: Regression_Models.py
 
 In the works: Week 4:    
 Lesson 14: Draw a shape using Turtle  
