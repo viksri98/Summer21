@@ -27,8 +27,8 @@ Lesson 13: Functions.ipynb
 Project3: Regression_Models.py
 
 In the works: Week 4:    
-Lesson 14: Draw a shape using Turtle  
-Lesson 15: Transformations --> Rotation, Translation, Dilation, Reflection  
+Lesson 14: Functions_through_Turtle.ipynb  (can be done using Spyder too) Draw a shape using Turtle  
+Project:   
 Project: Image Processing --> image processing project  
 Project: Sound Processing --> project  
 
