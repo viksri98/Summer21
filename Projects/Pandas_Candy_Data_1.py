@@ -30,3 +30,5 @@ mean_win_np = np.mean(win_percent_np)
 # convert your sugarpercent dataframe to a numpy array
 # use matplotlib to plot a graph of winpercent vs sugarpercent
 
+choc_car_bar = candy_data[np.logical_and(np.logical_and(candy_data['chocolate'] == 1, candy_data['caramel'] == 1), candy_data['bar'] == 1)]
+plt.scatter(np.log(np.array(choc_car_bar['sugarpercent'])), np.array(choc_car_bar['winpercent']))
