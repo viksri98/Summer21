@@ -21,7 +21,6 @@ Project2: Pandas_Candy_Data_2.py
 
 Week 3:   
 Review_Lessons8_11.ipynb  
-Project3: Covid_data_project.py
 Lesson 12: Loops.ipynb  
 Review_Lesson12_Functions -> Quadratic, Cubic, Absolute, Exponential movement with a,h,k  
 Lesson 13: Functions.ipynb  
