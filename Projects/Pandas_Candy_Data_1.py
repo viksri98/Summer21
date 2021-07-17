@@ -12,7 +12,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 #%%import a dataframe
-candy_data = pd.read_csv('~/Documents/Python/Summer21/src/candy_data.csv')
+candy_data = pd.read_csv('~/Documents/Summer21/src/candy_data.csv')
 
 #%% examine the dataframe
 print(candy_data.keys())
@@ -37,9 +37,25 @@ plt.xlabel("Sugar Percent")
 plt.ylabel("Win Percent")
 plt.grid()
 #%% price vs win
+plt.figure()
 price_percent = np.array(candy_data['pricepercent'])
 plt.scatter(price_percent, win_percent_np)
 plt.title("wins vs price")
 plt.xlabel("price")
 plt.ylabel("win percent")
+plt.grid()
+
+#%% filter for only chocolates
+choc_data = candy_data[candy_data['chocolate'] == 1]
+choc_sugar = np.array(choc_data['sugarpercent'])
+choc_price = np.array(choc_data['pricepercent'])
+choc_win = np.array(choc_data['winpercent'])
+plt.figure()
+plt.scatter(choc_sugar, choc_win)
+plt.title('chocolate: sugar vs win')
+plt.grid()
+#%% plot price vs win for chocolate
+plt.figure()
+plt.scatter(choc_price, choc_win)
+plt.title('chocolate: price vs win')
 plt.grid()
