@@ -59,3 +59,8 @@ plt.figure()
 plt.scatter(choc_price, choc_win)
 plt.title('chocolate: price vs win')
 plt.grid()
+#%% pluribus sugar vs win
+plt.figure()
+plt.scatter(np.array(candy_data[candy_data['pluribus'] == 1]['sugarpercent']), np.array(candy_data[candy_data['pluribus'] == 1]['winpercent']))
+plt.title("pluribus")
+plt.grid()
