@@ -9,5 +9,31 @@ Lesson 5: math.ipynb -> possibly switch order with strings_lists
 Lesson 6: strings_lists.ipynb  
 Day 3:  
 Lesson 7: numpy_creation.ipynb  
+<<<<<<< HEAD
 Lesson 8: numpy_manipulation.ipynb  
 Lesson 9: logical_statements.ipynb  
+=======
+
+Week 2:  
+Review_Lessons1_7.ipynb  
+Lesson 8: numpy_manipulation.ipynb     
+Lesson 9: matplotlib.ipynb -> Introduction of Function Family   
+Project1: Pandas_Candy_Data_1.py   
+Lesson 10: logical_statements.ipynb    
+Lesson 11: Execution_Control.ipynb  
+Project2: Pandas_Candy_Data_2.py  
+
+Week 3:   
+Review_Lessons8_11.ipynb  
+Lesson 12: Loops.ipynb  
+Review_Lesson12_Functions -> Quadratic, Cubic, Absolute, Exponential movement with a,h,k  
+Lesson 13: Functions.ipynb  
+Project3: Regression_Models.py
+
+In the works: Week 4:    
+Lesson 14: Functions_through_Turtle.ipynb  (can be done using Spyder too) Draw a shape using Turtle  
+Project:   
+Project: Image Processing --> image processing project  
+Project: Sound Processing --> project  
+
+>>>>>>> 0a0fb492bb7e4b09f007072472c961f43a3f5125

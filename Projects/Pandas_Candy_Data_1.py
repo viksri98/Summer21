@@ -12,14 +12,22 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 #%%import a dataframe
+<<<<<<< HEAD
 candy_data = pd.read_csv('~/Documents/Summer21/src/candy_data.csv')
+=======
+candy_data = pd.read_csv('../src/candy_data.csv')
+>>>>>>> 0a0fb492bb7e4b09f007072472c961f43a3f5125
 
 #%% examine the dataframe
 print(candy_data.keys())
 candy_names = candy_data['competitorname']
 win_percent = candy_data['winpercent']
 # Get the sugarpercent data into a new variable below
+<<<<<<< HEAD
 sugar_percent = candy_data['sugarpercent']
+=======
+
+>>>>>>> 0a0fb492bb7e4b09f007072472c961f43a3f5125
 #%% Lets try using numpy with pandas dataframes
 # Does it work well?
 win_percent_np = np.array(win_percent)
@@ -30,6 +38,7 @@ mean_win_np = np.mean(win_percent_np)
 # convert your sugarpercent dataframe to a numpy array
 # use matplotlib to plot a graph of winpercent vs sugarpercent
 
+<<<<<<< HEAD
 sugar_np = np.array(sugar_percent)
 plt.scatter(sugar_np, win_percent_np)
 plt.title("Win Percent vs Sugar Percent")
@@ -64,3 +73,7 @@ plt.figure()
 plt.scatter(np.array(candy_data[candy_data['pluribus'] == 1]['sugarpercent']), np.array(candy_data[candy_data['pluribus'] == 1]['winpercent']))
 plt.title("pluribus")
 plt.grid()
+=======
+choc_car_bar = candy_data[np.logical_and(np.logical_and(candy_data['chocolate'] == 1, candy_data['caramel'] == 1), candy_data['bar'] == 1)]
+plt.scatter(np.log(np.array(choc_car_bar['sugarpercent'])), np.array(choc_car_bar['winpercent']))
+>>>>>>> 0a0fb492bb7e4b09f007072472c961f43a3f5125
