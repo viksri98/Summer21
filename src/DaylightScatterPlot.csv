@@ -1,11 +1,10 @@
 City,Latitude,Number of Daylight Hours
 "Portland, OR",45,7
 "San Francisco, CA",37,8
-"Anchorage, AK",61,0
 "Jacksonville, FL",30,9
 "Santo Domingo, Dominican Rep.",18,11
 "Charlotte, NC",35,10
 "Sioux Falls, SD",43,9
 "Calgary, Alberta, Canada",51,8
 "Mexico City, Mexico",19,11
-"Quito, Ecuador",0,12
+"Quito, Ecuador",1,12
